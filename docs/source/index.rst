@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Lê Đại Thành - Người Dẫn Dắt Rikvip Thành Thương Hiệu Game Bài Uy Tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Lê Đại Thành <https://rikvip.com.mx/ceo-le-dai-thanh/>`_ là người đứng đầu Rikvip, một nền tảng game bài đổi thưởng trực tuyến hàng đầu tại Việt Nam. Với kinh nghiệm sâu rộng trong ngành công nghệ và giải trí trực tuyến, ông Lê Đại Thành đã dẫn dắt Rikvip phát triển vượt bậc, mang đến những trải nghiệm chất lượng và an toàn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Tận tâm với việc áp dụng các công nghệ tiên tiến và phát triển các dịch vụ tối ưu, Lê Đại Thành luôn đặt mục tiêu đảm bảo sự minh bạch, bảo mật và sự hài lòng của khách hàng lên hàng đầu. Chính nhờ sự dẫn dắt của Lê Đại Thành mà Rikvip ngày càng khẳng định được vị thế của mình trên thị trường và thu hút đông đảo người chơi trong và ngoài nước.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 13c ấp 1, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0807723157. 
 
-.. toctree::
+Email: contact@rikvip.com.mx. 
 
-   usage
-   api
+Website: https://rikvip.com.mx/ceo-le-dai-thanh/
+
+#rikvip #ceoledaithanh #ceoledaithanh_rikvip 
